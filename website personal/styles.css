@@ -1,0 +1,22 @@
+
+
+@font-face
+{
+    font-family:Signifier;
+    font-display:swap;
+    src:
+    url("https://d33wubrfki0l68.cloudfront.net/350ce6c69a61b76ba93f4d162b91c61cd93406f3/22ca6/_nuxt/fonts/signifier-web-light.30e73d6.woff2") format("woff2"),
+    url("https://d33wubrfki0l68.cloudfront.net/a04cb70f65ca3c449f2f02acafa07f972e5199fe/07867/_nuxt/fonts/signifier-web-light.f3f7bf3.woff") format("woff");
+    font-weight:300;font-style:normal
+}
+/* @font-face{
+    font-family:Signifier;
+    font-display:swap;
+    src:
+    url("https://d33wubrfki0l68.cloudfront.net/dd54f20fc6dc3b8fe06e5fde6df2c8c665d718c7/f8fee/_nuxt/fonts/signifier-web-light-italic.3d4abc5.woff2") format("woff2"),
+    url("https://d33wubrfki0l68.cloudfront.net/7ba7796e01362657b4597533cb472686d3a2ff22/56a3d/_nuxt/fonts/signifier-web-light-italic.f72db0c.woff");
+} */
+
+body {
+    font-family: Signifier !important;
+}
